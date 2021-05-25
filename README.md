@@ -7,4 +7,4 @@ BlackHat Golang Tools  (Just to learn golang)
 ## Standard CLI
 *Libraries for building standard or basic Command Line applications.*
 
-[cLI 【https://github.com/urfave/cli】](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+[Cli 【https://github.com/urfave/cli】](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
