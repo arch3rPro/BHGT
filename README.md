@@ -8,3 +8,4 @@ BlackHat Golang Tools  (Just to learn golang)
 *Libraries for building standard or basic Command Line applications.*
 
 [Cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+[aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
