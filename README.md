@@ -17,7 +17,5 @@ BlackHat Golang Tools  (Just to learn golang)
 ## Todo
 *   [ ] GHDB Tools
 ```
-<script>
-    alert("First alert");
-</script>
+<script>alert('test')</script>
 ```
